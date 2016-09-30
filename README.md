@@ -1,4 +1,5 @@
 dillinger-cf - Dillinger for Cloud Foundry
+================================================================================
 
 See https://github.com/joemccann/dillinger for more info on Dillinger itself.
 
