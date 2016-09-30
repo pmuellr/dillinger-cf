@@ -1,0 +1,6 @@
+---
+applications:
+- name:    dillinger
+  host:    dillinger
+  memory:  128M
+  command: node dillinger-cf.js
